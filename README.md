@@ -1,6 +1,10 @@
 # cache-style
 不影响当前页面的情况下，把js、css文件预加载到缓存
 
+# Installation
+
+	$ npm install cache-style --save
+
 #Exapmle
 	//预加载js
 	cacheStyle('http://xxx.yyy.com/test.js', 
