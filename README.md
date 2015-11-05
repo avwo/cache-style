@@ -2,8 +2,13 @@
 不影响当前页面的情况下，把js、css文件预加载到缓存
 
 # Installation
+支持webpack等构建
 
 	$ npm install cache-style --save
+	
+也可以直接引用：
+
+	<script src="xxxx/cache-style.js"></script>
 
 #Exapmle
 	//预加载js
