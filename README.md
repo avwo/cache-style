@@ -2,7 +2,7 @@
 不影响当前页面的情况下，把js、css文件预加载到缓存
 
 # Installation
-支持webpack等构建
+支持webpack等构建：
 
 	$ npm install cache-style --save
 	
