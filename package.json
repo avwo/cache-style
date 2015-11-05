@@ -1,0 +1,14 @@
+{
+  "name": "cache-style",
+  "description": "缓存js或css文件，且对应的js及css不会在页面上执行",
+  "version": "0.0.1",
+  "main": "cache-style.js",
+  "author": "avenwu <avenwu@vip.qq.com>",
+  "homepage": "https://github.com/avwo/cache-style",
+  "keywords": ["cache", "js", "css"],
+  "registry": "http://registry.npmjs.org/cache-style",
+  "repository": {
+	  "type": "git",
+	  "url": "https://github.com/avwo/cache-style.git"
+  }
+}
